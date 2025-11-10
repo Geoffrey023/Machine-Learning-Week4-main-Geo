@@ -18,7 +18,7 @@ bleach==6.2.0
 bs4==0.0.2
 certifi==2025.8.3
 cffi==1.17.1
-charset-normalizer==3.4.3
+charset-normalizer==3.4.4
 comm==0.2.3
 dataclasses-json==0.6.7
 datasets==4.0.0
